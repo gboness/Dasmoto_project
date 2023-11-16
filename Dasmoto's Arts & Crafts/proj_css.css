@@ -1,4 +1,17 @@
-img[src*='pattern']{
-    height: 250px;
-    width: 1000px;
+.topping_img{
+    background-image: url("pictures/pattern.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 150px;
+    text-align: center;
+
+}
+
+.header {
+    text-align: center;
+    color: khaki;
+    font-size: 100px;
+    font-family: helvetica;
+    font-weight: bold;
+
 }
