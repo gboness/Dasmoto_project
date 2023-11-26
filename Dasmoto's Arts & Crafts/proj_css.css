@@ -17,5 +17,9 @@
 }
 
 .brushes {
-    background-color: aqua;
+    color: white;
+    background-color: mediumspringgreen;
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
 }
