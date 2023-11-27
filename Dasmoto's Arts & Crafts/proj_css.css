@@ -15,3 +15,40 @@
     font-weight: bold;
 
 }
+
+.brushes {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+
+}
+
+.frames {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.paint {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+.price {
+    color:blue;
+    font-weight: bold;
+    font-family: helvetica;
+}
+
+.hacksaw_par {
+
+    font-family: helvetica;
+
+}
